@@ -7,7 +7,7 @@ Telegram: https://t.me/BeaverBotScanner
 
 Twitter: https://x.com/beaverbot40
 
-Features
+# Features
 
 Snipe any Channel, group or topic on Telegram
 
