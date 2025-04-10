@@ -3,6 +3,10 @@ Solana Telegram Sniper Bot
 
 Website: https://www.beaverbot.shop
 
+Telegram: https://t.me/BeaverBotScanner
+
+Twitter: https://x.com/beaverbot40
+
 Snipe any Channel, group or topic on Telegram
 Full auto and manual trading 
 Pro version gets full source code 
